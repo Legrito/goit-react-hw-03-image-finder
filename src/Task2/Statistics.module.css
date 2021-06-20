@@ -1,0 +1,26 @@
+.statistics {
+  width: 350px;
+  margin: 0 auto;
+  background-color: chocolate;
+}
+
+.title {
+  background-color: crimson;
+}
+
+.list {
+  background-color: darkcyan;
+}
+
+.item {
+  background-color: #fff;
+}
+
+.label {
+  background-color: tomato;
+}
+
+.percentage {
+  background-color: darkkhaki;
+}
+/*# sourceMappingURL=Statistics.module.css.map */

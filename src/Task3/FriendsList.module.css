@@ -1,0 +1,14 @@
+.isOnline {
+  display: block;
+  width: 10px;
+  height: 10px;
+  background-color: darkseagreen;
+}
+
+.isOffline {
+  display: block;
+  width: 10px;
+  height: 10px;
+  background-color: firebrick;
+}
+/*# sourceMappingURL=FriendsList.module.css.map */

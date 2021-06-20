@@ -1,0 +1,36 @@
+.profile {
+  padding: 20px;
+  margin: 0 auto;
+  background-color: aqua;
+  width: 350px;
+}
+
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.name {
+  background-color: beige;
+}
+
+.tag {
+  background-color: teal;
+}
+
+.location {
+  background-color: #fff;
+}
+
+.stats {
+  background-color: blueviolet;
+}
+
+.label {
+  background-color: green;
+}
+
+.quantity {
+  background-color: burlywood;
+}
+/*# sourceMappingURL=Profile.module.css.map */
